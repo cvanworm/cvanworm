@@ -2,12 +2,22 @@
 
 ![Profile Banner](https://img.shields.io/badge/Welcome-to_my_GitHub-orange?style=for-the-badge&logo=github)
 
-I'm a **Computer Engineer & Researcher** passionate about **computer networks** and **cybersecurity**, focusing on practical and research-oriented projects in IoT, embedded systems, and distributed communication.  
+## About Me
+
+- 🎓 **Education**: BS in Computer Science from the **University of Wyoming**  
+- 🎓 **Current**: MS in Computer Engineering at **University of Central Florida** (2nd year)  
+- 🔬 **Research**: Graduate researcher in the **DRACO Lab**  
+- 💻 **Passion**: Computer networks, cybersecurity, IoT, embedded systems, and distributed communication  
+- 🌱 **Learning**: Always exploring new technologies, research methods, and practical solutions  
+- ⚡ **Focus**: Combining hands-on projects with research to solve real-world problems  
 
 ---
 
-## 🔭 Projects
-
+## 🌱 Currently Learning
+- Distributed network communication in **IoT using ESP32**
+- **Computer forensics**
+- Advanced **server architecture design**
+- 
 ---
 
 ## 🛠️ Skills & Technologies
@@ -29,20 +39,8 @@ I'm a **Computer Engineer & Researcher** passionate about **computer networks** 
 
 ---
 
-## 🌱 Currently Learning
-- Distributed network communication in **IoT using ESP32**
-- **Computer forensics**
-- Advanced **server architecture design**
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-vanwormer/)
-
----
-
-## ⚡ GitHub Stats
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
