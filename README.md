@@ -14,9 +14,9 @@
 ---
 
 ## 🌱 Currently Learning
-- Distributed network communication in **IoT using ESP32**
-- **Computer forensics**
-- Advanced **server architecture design**
+- Distributed network communication in IoT using ESP32
+- Computer forensics
+- Advanced server architecture design
   
 ---
 
@@ -45,4 +45,4 @@
 ---
 
 ## ⛷️ Fun Fact
-I have been **skiing since I was 2 years old**!
+I have been skiing since I was 2 years old!
