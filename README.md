@@ -46,5 +46,5 @@ I'm a **Computer Engineer & Researcher** passionate about **computer networks** 
 
 ---
 
-## 🎿 Fun Fact
+## ⛷️ Fun Fact
 I have been **skiing since I was 2 years old**!
