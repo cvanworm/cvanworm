@@ -4,10 +4,10 @@
 
 ## About Me
 
-- 🎓 **Education**: BS in Computer Science from the **University of Wyoming**  
-- 🎓 **Current**: MS in Computer Engineering at **University of Central Florida** (2nd year)  
-- 🔬 **Research**: Graduate researcher in the **DRACO Lab**  
-- 💻 **Passion**: Computer networks, cybersecurity, IoT, embedded systems, and distributed communication  
+- 🎓 **Education**: BS in Computer Science from the [**University of Wyoming**](https://www.uwyo.edu/index.html)
+- 🎓 **Current**: MS in Computer Engineering at [**University of Central Florida**](https://www.ucf.edu/)
+- 🔬 **Research**: Graduate researcher in the [**DRACO Lab**](https://thedracolab.com/) 
+- 💻 **Passions**: Computer networks, cybersecurity, IoT, embedded systems, and distributed communication  
 - 🌱 **Learning**: Always exploring new technologies, research methods, and practical solutions  
 - ⚡ **Focus**: Combining hands-on projects with research to solve real-world problems  
 
