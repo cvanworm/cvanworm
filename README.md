@@ -17,7 +17,7 @@
 - Distributed network communication in **IoT using ESP32**
 - **Computer forensics**
 - Advanced **server architecture design**
-- 
+  
 ---
 
 ## 🛠️ Skills & Technologies
