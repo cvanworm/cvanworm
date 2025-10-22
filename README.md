@@ -1,4 +1,4 @@
-# Hi there, I'm Calvin 👋
+# I am Calvin VanWormer
 
 ![Profile Banner](https://img.shields.io/badge/Welcome-to_my_GitHub-orange?style=for-the-badge&logo=github)
 
