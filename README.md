@@ -15,8 +15,9 @@
 
 ## 🌱 Currently Learning
 - Distributed network communication in IoT using ESP32
+- Synchronizing decentralized devices in distributed networks
+- Side Channel Power attacks on edge embedded devicesd
 - Computer forensics
-- Advanced server architecture design
   
 ---
 
@@ -35,7 +36,7 @@
 🚀 ESP-IDF | 🌐 ESP-Now | ⚡ Perf | 🧵 Threads | 🔌 Sockets | 💻 Node.js | 🤖 Puppeteer  
 
 ### Tools
-🐧 Linux | 🐙 GitHub | 🦊 GitLab | 🛠 PlatformIO 
+🐧 Linux | 🐙 GitHub | 🦊 GitLab 
 
 ---
 
